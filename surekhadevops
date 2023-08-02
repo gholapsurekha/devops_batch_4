@@ -2,3 +2,6 @@ git add
 git commit
 git clone
 got init
+git push 
+git push
+git fetch
